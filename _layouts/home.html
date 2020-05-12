@@ -1,10 +1,57 @@
 ---
 layout: page
 ---
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    .button {
+      border-radius: 4px;
+      background-color: #007bff;
+      border: none;
+      color: #FFFFFF;
+      text-align: center;
+      font-size: 28px;
+      padding: 20px;
+      width: 200px;
+      transition: all 0.5s;
+      cursor: pointer;
+      margin: 5px;
+    }
 
+    .button span {
+      cursor: pointer;
+      display: inline-block;
+      position: relative;
+      transition: 0.5s;
+    }
+
+    .button span:after {
+      content: '\00bb';
+      position: absolute;
+      opacity: 0;
+      top: 0;
+      right: -20px;
+      transition: 0.5s;
+    }
+
+    .button:hover span {
+      padding-right: 25px;
+    }
+
+    .button:hover span:after {
+      opacity: 1;
+      right: 0;
+    }
+    .home-button a:hover, a:focus {
+    color: #FFFFFF;
+  }
+  </style>
+</head>
 {{ content }}
 
 <div class="text-center">
       <p>Play and learn ethics!</p>
-      <a href="choice1" class="btn btn-primary">Go to the story !</a>
+      <div class='home-button'>
+        <a href="choice1" class="button"><span>Go to the story !</span></a>
+      </div>
 </div>
