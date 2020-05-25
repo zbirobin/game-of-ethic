@@ -62,7 +62,7 @@ Time to tell you about the story of yourself... Sed ut perspiciatis unde omnis i
         <div class="col-lg-6 col-md-6 nopadding" style="text-align: justify;">
           <div class='text1'>
             <div style="text-align: center;">
-              <h3>Choice 1</h3>
+              <h3>You insist on your position that bolted joints are unsafe in this case. </h3>
               <img src="https://images.unsplash.com/photo-1579256945823-f007794790df?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80" height = "250" style = "margin-bottom: 5px">
               <div class='button'><a href="../choice1-1" class="btn btn-primary"><span>Choose choice 1</span></a></div>
             </div>
@@ -72,7 +72,7 @@ Time to tell you about the story of yourself... Sed ut perspiciatis unde omnis i
         <div class="col-lg-6 col-md-6 nopadding" style="text-align: justify;">
           <div class='text2'>
             <div style="text-align: center;">
-              <h3>Choice 2</h3>
+              <h3> You accept they know better and don’t say anything.</h3>
               <img src="https://images.unsplash.com/photo-1556761175-b413da4baf72?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=967&q=80" style = "margin-bottom: 5px">
               <div class= 'button'><a href="../choice1-2" class="btn btn-primary"><span>Choose choice 2</span></a></div>
             </div>
