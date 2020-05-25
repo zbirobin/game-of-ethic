@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Good choice,
-subtitle: you are the best
+title: Was it the right choice?
+subtitle: Will you change your mind?
 ---
 
 <head>
@@ -56,28 +56,28 @@ subtitle: you are the best
   </style>
 </head>
 
-Time to tell you about the story of yourself... Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
-
+One of your colleagues speaks with you after the meeting and says that he agrees with you on the matter.
+<p></p>
 <div class="container">
     <div class="row">
         <div class="col-lg-6 col-md-6 nopadding" style="text-align: justify;">
           <div class='text1'>
             <div style="text-align: center;">
-              <h3>You feel reassured and decide to go to the higher ups and inform them.</h3>
-              <img src="https://images.unsplash.com/photo-1542744095-fcf48d80b0fd?ixlib=rb-1.2.1&auto=format&fit=crop&w=1055&q=80" height = "250" style = "margin-bottom: 5px;margin-top: 7px">
-              <div class='button'><a href="../choice1-1" class="btn btn-primary"><span>Choose choice 1</span></a></div>
+              <h3>Choice 1 </h3>
+              <img src="https://images.unsplash.com/photo-1542744095-fcf48d80b0fd?ixlib=rb-1.2.1&auto=format&fit=crop&w=1055&q=80" height = "250" style = "margin-bottom: 5px">
+              <div class='button'><a href="../choice1-2-1" class="btn btn-primary"><span>Choose choice 1</span></a></div>
             </div>
-              Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
+              You feel reassured and decide to go to the higher ups and inform them.
           </div>
         </div>
         <div class="col-lg-6 col-md-6 nopadding" style="text-align: justify;">
           <div class='text2'>
             <div style="text-align: center;">
-              <h3 style="font-size:20px">You still don’t feel confident enough to go to the higher ups to inform them, as you are worried about keeping your job.</h3>
+              <h3>Choice 2 </h3>
               <img src="https://images.unsplash.com/photo-1461988625982-7e46a099bf4f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80" height = "250" style = "margin-bottom: 5px">
-              <div class= 'button'><a href="../choice1-2" class="btn btn-primary"><span>Choose choice 2</span></a></div>
+              <div class= 'button'><a href="../choice1-2-2" class="btn btn-primary"><span>Choose choice 2</span></a></div>
             </div>
-              Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
+              You still don’t feel confident enough to go to the higher ups to inform them, as you are worried about keeping your job.
           </div>
         </div>
     </div>

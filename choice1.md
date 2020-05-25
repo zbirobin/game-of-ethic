@@ -55,28 +55,28 @@ subtitle: you are now an enginner!
   </style>
 </head>
 <body>
-Time to tell you about the story of yourself... Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
-
+You have been working for a little over a year at your firm. The most recent project is new for all and is about making a machining stand to be used by workers. During a meeting with your coworkers who are all more experienced than you, you bring up that they seem to favor the use of bolted joints over welded joints for price reasons. You mention that welded joints would be more reliable and safer for the employees but your coworkers don’t agree.
+<p></p>
 <div class="container">
     <div class="row">
         <div class="col-lg-6 col-md-6 nopadding" style="text-align: justify;">
           <div class='text1'>
             <div style="text-align: center;">
-              <h3>You insist on your position that bolted joints are unsafe in this case. </h3>
+              <h3>Choice 1 </h3>
               <img src="https://images.unsplash.com/photo-1579256945823-f007794790df?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80" height = "250" style = "margin-bottom: 5px">
               <div class='button'><a href="../choice1-1" class="btn btn-primary"><span>Choose choice 1</span></a></div>
             </div>
-              Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
+              You insist on your position that bolted joints are unsafe in this case.
           </div>
         </div>
         <div class="col-lg-6 col-md-6 nopadding" style="text-align: justify;">
           <div class='text2'>
             <div style="text-align: center;">
-              <h3> You accept they know better and don’t say anything.</h3>
+              <h3>Choice 2</h3>
               <img src="https://images.unsplash.com/photo-1556761175-b413da4baf72?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=967&q=80" style = "margin-bottom: 5px">
               <div class= 'button'><a href="../choice1-2" class="btn btn-primary"><span>Choose choice 2</span></a></div>
             </div>
-              Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
+              You accept they know better and don’t say anything.
           </div>
         </div>
     </div>
