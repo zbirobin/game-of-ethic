@@ -10,9 +10,7 @@ subtitle: you are now an enginner!
       transition: 0.5s;
       opacity:0.5;
     }
-    body {
-      background: -webkit-linear-gradient(#ffffff, #abbaab);
-    }
+
     .text2 {
       transition: 0.5s;
       opacity: 0.5;
