@@ -79,11 +79,6 @@ You have been working for a little over a year at your firm. The most recent pro
               You accept they know better and don’t say anything.
           </div>
         </div>
-      <div class="col-lg-6 col-md-6 nopadding" style="text-align: justify;">
-          <div class='text2'>
-            <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeDE1uiosfAc1Sxvtm4Di7ZuBKpgxAvIKxJ2z4v2MwO5gc6Yw/viewform?embedded=true" width="700" height="520" frameborder="0" marginheight="0" marginwidth="0">Chargement…</iframe>
-          </div>
-      </div>
     </div>
 </div>
 </body>
