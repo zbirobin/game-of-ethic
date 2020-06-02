@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Congratulations,
-subtitle: you are now an engineer!
+
 ---
 <head>
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -81,6 +80,23 @@ You are asked to find a way to popularize these other products by utilizing this
               You decide to track the pages visited by each client and recommend related products. The data that you can access is regulated by the General Data Protection Regulations (GDPR) which applies to all individuals, companies and organizations.
           </div>
         </div>
+    </div>
+    <div class="row">
+      <p> Recall of the 7 canons to help you think with an ethical point of view : </p>
+      <li>Engineers shall hold paramount the safety, health and welfare of the public in the performance of their professional duties.
+      </li>
+      <li>Engineers shall perform services only in the areas of their competence.
+      </li>
+      <li>Engineers shall issue public statements only in an objective and truthful manner.
+      </li>
+      <li>Engineers shall act in professional matters for each employer or client as faithful agents or trustees, and shall avoid conflicts of interest.
+      </li>
+      <li>Engineers shall build their professional reputation on the merit of their services and shall not compete unfairly with others.
+      </li>
+      <li>Engineers shall act in such a manner as to uphold and enhance the honor, integrity and dignity of the profession.
+      </li>
+      <li>Engineers shall continue their professional development throughout their careers and shall provide opportunities for the professional development of those engineers under their supervision.
+      </li>
     </div>
 </div>
 </body>
