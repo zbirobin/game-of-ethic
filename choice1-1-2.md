@@ -1,5 +1,5 @@
 ---
 layout: page
 title: Accident...
-subtitle: You are partially responsible because you did know that the bolted joints were unsafe.
+subtitle: Your boss gave you a warning about your poor performances and you are now at risk of being fired.
 ---

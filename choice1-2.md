@@ -67,7 +67,7 @@ One of your colleagues speaks with you after the meeting and says that he agrees
               <img src="https://images.unsplash.com/photo-1542744095-fcf48d80b0fd?ixlib=rb-1.2.1&auto=format&fit=crop&w=1055&q=80" height = "250" style = "margin-bottom: 5px">
               <div class='button'><a href="../choice1-2-1" class="btn btn-primary"><span>Choose choice 1</span></a></div>
             </div>
-              You feel reassured and decide to go to the higher ups and inform them.
+              You ask for consent to cookies, as regulated by GDPR.
           </div>
         </div>
         <div class="col-lg-6 col-md-6 nopadding" style="text-align: justify;">
@@ -77,7 +77,7 @@ One of your colleagues speaks with you after the meeting and says that he agrees
               <img src="https://images.unsplash.com/photo-1461988625982-7e46a099bf4f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80" height = "250" style = "margin-bottom: 5px">
               <div class= 'button'><a href="../choice1-2-2" class="btn btn-primary"><span>Choose choice 2</span></a></div>
             </div>
-              You still don’t feel confident enough to go to the higher ups to inform them, as you are worried about keeping your job.
+            You don’t ask for consent for a maximal sales increase.
           </div>
         </div>
     </div>
