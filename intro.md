@@ -54,7 +54,7 @@ layout: page
 }
   </style>
 </head>
-The principle of this website is to use the 7 Canons of Engineering to help guide ethical thinking.
+The principle of this website is to use the 7 Canons of Engineering to help guide ethical thinking. (You can find them at the bottom of all pages) 
 <li>Engineers shall hold paramount the safety, health and welfare of the public in the performance of their professional duties.
 </li>
 <li>Engineers shall perform services only in the areas of their competence.
