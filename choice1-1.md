@@ -51,6 +51,12 @@ subtitle: There is a slight increase in sales, but not enough.
       opacity: 1;
       right: 0;
     }
+    li{
+      list-style-type: disc;
+      list-style-position: inside;
+      text-indent: -25px;
+      padding-left: 1em;
+  }
 
   </style>
 </head>

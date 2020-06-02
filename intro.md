@@ -46,9 +46,15 @@ layout: page
     color: #FFFFFF;
 
   }
+  li{
+    list-style-type: disc;
+    list-style-position: inside;
+    text-indent: -25px;
+    padding-left: 1em;
+}
   </style>
 </head>
-The principle of this website is to learn the 7 Canons of Engineering and ethics in engineering cases.
+The principle of this website is to use the 7 Canons of Engineering to help guide ethical thinking.
 <li>Engineers shall hold paramount the safety, health and welfare of the public in the performance of their professional duties.
 </li>
 <li>Engineers shall perform services only in the areas of their competence.
@@ -64,7 +70,7 @@ The principle of this website is to learn the 7 Canons of Engineering and ethics
 <li>Engineers shall continue their professional development throughout their careers and shall provide opportunities for the professional development of those engineers under their supervision.
 </li>
 
-<p> Please answer the first part of this form before navigate throughout the website and then, fill the second part at the end of the story. <a href="https://forms.gle/VQ8eodV7pjieKQxZ7" style = "font-color: #007bff"><span> Form to complete</span></a> </p>
+<p> Please answer the first part of this form before navigating through the website and then, fill the second part at the end of the story. <a href="https://forms.gle/VQ8eodV7pjieKQxZ7" target=" _blank" ><span> Form to complete</span></a> </p>
 
 <div class="text-center">
       <p>Play and learn ethics!</p>
