@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Was it the right choice?
+title: Will you change your mind?
 subtitle: There is a slight increase in sales, but not enough.
 ---
 <head>

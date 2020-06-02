@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Congratulations,
-subtitle: you are now an enginner!
+subtitle: you are now an engineer!
 ---
 <head>
   <meta name="viewport" content="width=device-width, initial-scale=1">

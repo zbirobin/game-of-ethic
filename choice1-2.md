@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Was it the right choice?
-subtitle: Will you change your mind?
+title: You choose tracking
+subtitle: But you are asking yourself the question of consent...
 ---
 
 <head>
@@ -56,7 +56,7 @@ subtitle: Will you change your mind?
   </style>
 </head>
 
-One of your colleagues speaks with you after the meeting and says that he agrees with you on the matter.
+How do you go about it?
 <p></p>
 <div class="container">
     <div class="row">
