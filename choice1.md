@@ -71,7 +71,7 @@ You are asked to find a way to popularize these other products by utilizing this
           <div class='text1'>
             <div style="text-align: center;">
               <h3>Choice 1 </h3>
-              <img src="https://images.unsplash.com/photo-1579256945823-f007794790df?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80" height = "250" style = "margin-bottom: 5px">
+              <img src="https://images.unsplash.com/photo-1542744095-291d1f67b221?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80" height = "250" style = "margin-bottom: 5px">
               <div class='button'><a href="../choice1-1" class="btn btn-primary"><span>Choose choice 1</span></a></div>
             </div>
               You decide to add ‘recommended’ sections on all pages and randomly select products to promote.
@@ -81,7 +81,7 @@ You are asked to find a way to popularize these other products by utilizing this
           <div class='text2'>
             <div style="text-align: center;">
               <h3>Choice 2</h3>
-              <img src="https://images.unsplash.com/photo-1556761175-b413da4baf72?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=967&q=80" style = "margin-bottom: 5px">
+              <img src="https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1002&q=80" style = "margin-bottom: 5px">
               <div class= 'button'><a href="../choice1-2" class="btn btn-primary"><span>Choose choice 2</span></a></div>
             </div>
               You decide to track the pages visited by each client and recommend related products. The data that you can access is regulated by the General Data Protection Regulations (GDPR) which applies to all individuals, companies and organizations.

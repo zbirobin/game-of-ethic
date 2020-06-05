@@ -69,7 +69,7 @@ subtitle: There is a slight increase in sales, but not enough.
           <div class='text1'>
             <div style="text-align: center;">
               <h3>Choice 1 </h3>
-              <img src="https://images.unsplash.com/photo-1575043627654-ef061bd7700f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80" height = "250" style = "margin-bottom: 5px">
+              <img src="https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80" height = "250" style = "margin-bottom: 5px">
               <div class='button'><a href="../choice1-2" class="btn btn-primary"><span>Choose choice 1</span></a></div>
             </div>
               You decide to track the pages visited by each client and recommend related products.
@@ -79,7 +79,7 @@ subtitle: There is a slight increase in sales, but not enough.
           <div class='text2'>
             <div style="text-align: center;">
               <h3>Choice 2</h3>
-              <img src="https://images.unsplash.com/photo-1565598469107-2bd14ae7e7e4?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1096&q=80" height = "250" style = "margin-bottom: 5px">
+              <img src="https://images.unsplash.com/photo-1516675457768-db513e191dcc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1049&q=80" height = "250" style = "margin-bottom: 5px">
               <div class= 'button'><a href="../choice1-1-2" class="btn btn-primary"><span>Choose choice 2</span></a></div>
             </div>
               You refuse to use tracking to increase sales.

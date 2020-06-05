@@ -70,7 +70,7 @@ How do you go about it?
           <div class='text1'>
             <div style="text-align: center;">
               <h3>Choice 1 </h3>
-              <img src="https://images.unsplash.com/photo-1542744095-fcf48d80b0fd?ixlib=rb-1.2.1&auto=format&fit=crop&w=1055&q=80" height = "250" style = "margin-bottom: 5px">
+              <img src="https://images.unsplash.com/photo-1571165841024-2ce92069301d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80" height = "250" style = "margin-bottom: 5px">
               <div class='button'><a href="../choice1-2-1" class="btn btn-primary"><span>Choose choice 1</span></a></div>
             </div>
               You ask for consent to cookies, as regulated by GDPR.
@@ -80,7 +80,7 @@ How do you go about it?
           <div class='text2'>
             <div style="text-align: center;">
               <h3>Choice 2 </h3>
-              <img src="https://images.unsplash.com/photo-1461988625982-7e46a099bf4f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80" height = "250" style = "margin-bottom: 5px">
+              <img src="https://images.unsplash.com/photo-1543286386-2e659306cd6c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80" height = "250" style = "margin-bottom: 5px">
               <div class= 'button'><a href="../choice1-2-2" class="btn btn-primary"><span>Choose choice 2</span></a></div>
             </div>
             You don’t ask for consent for a maximal sales increase.
